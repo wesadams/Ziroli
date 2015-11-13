@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml>
+  <group color="1.0 1.0 0.0 0.25" name="E" side="left" type="kerning">
+    <glyphs>
+      E
+      F
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="H" side="left" type="kerning">
+    <glyphs>
+      H
+      N
+    </glyphs>
+  </group>
+  <group color="1.0 0.5 0.0 0.25" name="O" side="left" type="kerning">
+    <glyphs>
+      D
+      O
+      O.001
+      O.002
+      Q
+      Q.001
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="V" side="left" type="kerning">
+    <glyphs>
+      V
+      W
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="A" side="right" type="kerning">
+    <glyphs>
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="H" side="right" type="kerning">
+    <glyphs>
+      B
+      D
+      E
+      F
+      H
+      I
+      K
+      K.001
+      K.002
+      L
+      P
+      R
+      R.001
+    </glyphs>
+  </group>
+  <group color="1.0 0.5 0.0 0.25" name="O" side="right" type="kerning">
+    <glyphs>
+      C
+      G
+      O
+      O.001
+      O.002
+      Q
+      Q.001
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="V" side="right" type="kerning">
+    <glyphs>
+      V
+      W
+    </glyphs>
+  </group>
+</xml>
