@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="parenleft" format="1">
+  <advance width="373"/>
+  <unicode hex="0028"/>
+  <outline>
+    <contour>
+      <point x="305" y="723" type="curve"/>
+      <point x="320" y="705" type="line"/>
+      <point x="208.94422988" y="643.86838342"/>
+      <point x="161" y="511"/>
+      <point x="161" y="377" type="curve" smooth="yes"/>
+      <point x="161.0" y="233.268542199"/>
+      <point x="207.75254834" y="81.226441613"/>
+      <point x="314" y="-16" type="curve"/>
+      <point x="302" y="-34" type="line"/>
+      <point x="206" y="26"/>
+      <point x="80" y="186"/>
+      <point x="80" y="348" type="curve" smooth="yes"/>
+      <point x="80" y="551"/>
+      <point x="198.038041616" y="656.785454334"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>373</integer>
+        </dict>
+        <key>midground</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>parenleft</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>373</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
