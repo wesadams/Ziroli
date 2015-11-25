@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="ampersand," format="1">
+  <advance width="500"/>
+  <outline>
+    <contour>
+      <point x="669" y="0" type="line"/>
+      <point x="547" y="0" type="line"/>
+      <point x="456" y="87" type="line"/>
+      <point x="398" y="21" name="inserted"/>
+      <point x="330" y="-11"/>
+      <point x="250" y="-11" type="curve" smooth="yes"/>
+      <point x="196" y="-11" name="inserted"/>
+      <point x="150" y="6"/>
+      <point x="110" y="42" type="curve" smooth="yes"/>
+      <point x="66" y="80" name="inserted"/>
+      <point x="45" y="125"/>
+      <point x="45" y="181" type="curve" smooth="yes"/>
+      <point x="45" y="248" name="inserted"/>
+      <point x="89" y="306"/>
+      <point x="177" y="358" type="curve"/>
+      <point x="117" y="410" name="inserted"/>
+      <point x="88" y="460"/>
+      <point x="88" y="512" type="curve" smooth="yes"/>
+      <point x="88" y="554" name="inserted"/>
+      <point x="104" y="591"/>
+      <point x="135" y="622" type="curve" smooth="yes"/>
+      <point x="169" y="656" name="inserted"/>
+      <point x="213" y="672"/>
+      <point x="267" y="672" type="curve" smooth="yes"/>
+      <point x="325" y="672" name="inserted"/>
+      <point x="371" y="655"/>
+      <point x="405" y="619" type="curve" smooth="yes"/>
+      <point x="433" y="589" name="inserted"/>
+      <point x="447" y="556"/>
+      <point x="447" y="518" type="curve" smooth="yes"/>
+      <point x="447" y="482" name="inserted"/>
+      <point x="435" y="450"/>
+      <point x="412" y="423" type="curve" smooth="yes"/>
+      <point x="391" y="399" name="inserted"/>
+      <point x="358" y="374"/>
+      <point x="310" y="347" type="curve"/>
+      <point x="451" y="211" type="line"/>
+      <point x="482" y="253" name="inserted"/>
+      <point x="506" y="297"/>
+      <point x="524" y="344" type="curve"/>
+      <point x="620" y="344" type="line"/>
+      <point x="595" y="280" name="inserted"/>
+      <point x="559" y="217"/>
+      <point x="510" y="153" type="curve"/>
+    </contour>
+    <contour>
+      <point x="357" y="513" type="curve" smooth="yes"/>
+      <point x="357" y="557"/>
+      <point x="319" y="594"/>
+      <point x="265" y="594" type="curve" smooth="yes"/>
+      <point x="236" y="594" name="inserted"/>
+      <point x="214" y="585"/>
+      <point x="197" y="567" type="curve" smooth="yes"/>
+      <point x="184" y="552" name="inserted"/>
+      <point x="177" y="535"/>
+      <point x="177" y="516" type="curve" smooth="yes"/>
+      <point x="177" y="489" name="inserted"/>
+      <point x="203" y="450"/>
+      <point x="256" y="399" type="curve"/>
+      <point x="324" y="435" name="inserted"/>
+      <point x="357" y="472"/>
+    </contour>
+    <contour>
+      <point x="399" y="142" type="curve"/>
+      <point x="232" y="302" type="line"/>
+      <point x="169" y="270" name="inserted"/>
+      <point x="138" y="231"/>
+      <point x="138" y="183" type="curve" smooth="yes"/>
+      <point x="138" y="121"/>
+      <point x="189" y="73"/>
+      <point x="267" y="73" type="curve" smooth="yes"/>
+      <point x="318" y="73" name="inserted"/>
+      <point x="361" y="96"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ampersand,</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+        <key>midground</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>ampersand,</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>500</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

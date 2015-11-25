@@ -2,10 +2,10 @@
 
 feature kern {
     @MMK_L_E = [E F];
-    @MMK_L_O = [D O O.001 O.002 Q Q.001];
+    @MMK_L_O = [D O O.001 Q Q.001];
     @MMK_L_V = [V W];
     @MMK_R_H = [B D E F H I K K.001 K.002 L P R R.001];
-    @MMK_R_O = [C G O O.001 O.002 Q Q.001];
+    @MMK_R_O = [C G O O.001 Q Q.001];
     @MMK_R_V = [V W];
 
     # glyph, glyph

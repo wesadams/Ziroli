@@ -1,11 +1,16 @@
 space space uni0020
+numbersign numbersign uni0023
 dollar dollar uni0024
+percent percent uni0025
+quotesingle quotesingle uni0027
 parenleft parenleft uni0028
 parenright parenright uni0029
 asterisk asterisk uni002A
+plus plus uni002B
 comma comma uni002C
 hyphen hyphen uni002D
 period period uni002E
+slash slash uni002F
 zero zero uni0030
 one one uni0031
 two two uni0032
@@ -16,7 +21,9 @@ six six uni0036
 seven seven uni0037
 eight eight uni0038
 nine nine uni0039
+equal equal uni003D
 question question uni003F
+at at uni0040
 A A uni0041
 B B uni0042
 C C uni0043
@@ -43,24 +50,35 @@ W W uni0057
 X X uni0058
 Y Y uni0059
 Z Z uni005A
+bracketleft bracketleft uni005B
+bracketright bracketright uni005D
+braceleft braceleft uni007B
+braceright braceright uni007D
+dagger dagger uni2020
+cent cent uni00A2
+bullet bullet uni2022
+divide divide uni00F7
+daggerdbl daggerdbl uni2021
 .notdef .notdef
+A.001 A.001
+R.001 R.001
+H.001 H.001
 O.001 O.001
-O.002 O.002
-C.001 C.001
+G.001 G.001
+M.001 M.001
+N.001 N.001
+D.001 D.001
+K.001 K.001
+J.001 J.001
+Q.001 Q.001
 CapVertStem2 CapVertStem2
 CapVertStroke CapVertStroke
-K.001 K.001
 K.002 K.002
-J.001 J.001
-A.001 A.001
 I.Bottom I.Bottom
 I.Top I.Top
 I.Top.Major I.Top.Major
 I.Bottom.Major I.Bottom.Major
 I.Bottom.Minor I.Bottom.Minor
 I.Top.Minor I.Top.Minor
-R.001 R.001
-Asterisk Asterisk
-M.001 M.001
 S.001 S.001
-Q.001 Q.001
+ampersand, ampersand,
