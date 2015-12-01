@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="underscore" format="1">
+  <advance width="631"/>
+  <unicode hex="005F"/>
+  <outline>
+    <contour>
+      <point x="56" y="51" type="line"/>
+      <point x="58" y="3"/>
+      <point x="50" y="-54"/>
+      <point x="18" y="-119" type="curve"/>
+      <point x="31" y="-120" type="line"/>
+      <point x="51" y="-73"/>
+      <point x="90" y="-65"/>
+      <point x="242" y="-65" type="curve" smooth="yes"/>
+      <point x="443" y="-65" type="line" smooth="yes"/>
+      <point x="580" y="-65"/>
+      <point x="589" y="-82"/>
+      <point x="589" y="-123" type="curve"/>
+      <point x="600" y="-123" type="line"/>
+      <point x="596" y="-72"/>
+      <point x="599" y="-2"/>
+      <point x="618" y="51" type="curve"/>
+      <point x="608" y="51" type="line"/>
+      <point x="588" y="-3"/>
+      <point x="553" y="-6"/>
+      <point x="399" y="-6" type="curve" smooth="yes"/>
+      <point x="206" y="-6" type="line" smooth="yes"/>
+      <point x="77" y="-6"/>
+      <point x="66" y="1"/>
+      <point x="66" y="51" type="curve"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>underscore</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>631</integer>
+        </dict>
+        <key>midground</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>underscore</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>631</integer>
+        </dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

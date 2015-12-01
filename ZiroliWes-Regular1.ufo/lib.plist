@@ -31,7 +31,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/x2/Documents/STUDIO/39-Ziroli/GIT/ZiroliWes-Regular1.otf</string>
+	<string>/Users/x2/Documents/STUDIO/39-Ziroli/GIT/ZiroliWes-Regular2.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -323,10 +323,8 @@
 				<string>I.Bottom.Major</string>
 				<string>I.Bottom.Minor</string>
 				<string>I.Top.Minor</string>
-				<string>Asterisk</string>
 				<string>S.001</string>
 				<string>dollar</string>
-				<string>hyphen</string>
 				<string>parenright</string>
 				<string>asterisk</string>
 				<string>parenleft</string>
@@ -341,6 +339,33 @@
 				<string>equal</string>
 				<string>plus</string>
 				<string>daggerdbl</string>
+				<string>plusminus</string>
+				<string>less</string>
+				<string>greater</string>
+				<string>quotedblright</string>
+				<string>underscore</string>
+				<string>bar</string>
+				<string>minus</string>
+				<string>hyphen</string>
+				<string>emdash</string>
+				<string>endash</string>
+				<string>braceleft</string>
+				<string>quoteright</string>
+				<string>quotedblleft</string>
+				<string>degree</string>
+				<string>quoteleft</string>
+				<string>divide</string>
+				<string>cent</string>
+				<string>bracketleft</string>
+				<string>braceright</string>
+				<string>brokenbar</string>
+				<string>backslash</string>
+				<string>bracketright</string>
+				<string>infinity</string>
+				<string>bullet</string>
+				<string>lozenge</string>
+				<string>colon</string>
+				<string>semicolon</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -469,7 +494,6 @@
 		<string>I.Top.Minor</string>
 		<string>S.001</string>
 		<string>dollar</string>
-		<string>hyphen</string>
 		<string>parenright</string>
 		<string>asterisk</string>
 		<string>parenleft</string>
@@ -485,19 +509,32 @@
 		<string>plus</string>
 		<string>daggerdbl</string>
 		<string>plusminus</string>
-		<string>infinity</string>
+		<string>less</string>
+		<string>greater</string>
+		<string>quotedblright</string>
+		<string>underscore</string>
+		<string>bar</string>
+		<string>minus</string>
+		<string>hyphen</string>
+		<string>emdash</string>
+		<string>endash</string>
 		<string>braceleft</string>
+		<string>quoteright</string>
+		<string>quotedblleft</string>
 		<string>degree</string>
-		<string>lessthanequal</string>
-		<string>greaterthan</string>
+		<string>quoteleft</string>
 		<string>divide</string>
-		<string>lessthan</string>
 		<string>cent</string>
 		<string>bracketleft</string>
 		<string>braceright</string>
+		<string>brokenbar</string>
 		<string>backslash</string>
 		<string>bracketright</string>
+		<string>infinity</string>
 		<string>bullet</string>
+		<string>lozenge</string>
+		<string>colon</string>
+		<string>semicolon</string>
 	</array>
 </dict>
 </plist>

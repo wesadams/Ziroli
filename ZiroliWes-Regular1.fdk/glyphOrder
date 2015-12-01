@@ -1,17 +1,27 @@
-space space uni0020
-numbersign numbersign uni0023
-dollar dollar uni0024
-percent percent uni0025
-quotesingle quotesingle uni0027
-parenleft parenleft uni0028
-parenright parenright uni0029
-asterisk asterisk uni002A
-plus plus uni002B
-comma comma uni002C
-hyphen hyphen uni002D
-period period uni002E
-slash slash uni002F
-zero zero uni0030
+.notdef .notdef
+C C uni0043
+A A uni0041
+A.001 A.001
+E E uni0045
+R R uni0052
+R.001 R.001
+T T uni0054
+H H uni0048
+H.001 H.001
+I I uni0049
+O O uni004F
+O.001 O.001
+G G uni0047
+G.001 G.001
+U U uni0055
+P P uni0050
+M M uni004D
+M.001 M.001
+N N uni004E
+N.001 N.001
+V V uni0056
+L L uni004C
+Y Y uni0059
 one one uni0031
 two two uni0032
 three three uni0033
@@ -21,56 +31,24 @@ six six uni0036
 seven seven uni0037
 eight eight uni0038
 nine nine uni0039
-equal equal uni003D
-question question uni003F
-at at uni0040
-A A uni0041
-B B uni0042
-C C uni0043
-D D uni0044
-E E uni0045
-F F uni0046
-G G uni0047
-H H uni0048
-I I uni0049
-J J uni004A
-K K uni004B
-L L uni004C
-M M uni004D
-N N uni004E
-O O uni004F
-P P uni0050
-Q Q uni0051
-R R uni0052
+zero zero uni0030
+period period uni002E
+comma comma uni002C
+space space uni0020
 S S uni0053
-T T uni0054
-U U uni0055
-V V uni0056
+B B uni0042
+D D uni0044
+D.001 D.001
+F F uni0046
+K K uni004B
+K.001 K.001
+J J uni004A
+J.001 J.001
+Q Q uni0051
+Q.001 Q.001
 W W uni0057
 X X uni0058
-Y Y uni0059
 Z Z uni005A
-bracketleft bracketleft uni005B
-bracketright bracketright uni005D
-braceleft braceleft uni007B
-braceright braceright uni007D
-dagger dagger uni2020
-cent cent uni00A2
-bullet bullet uni2022
-divide divide uni00F7
-daggerdbl daggerdbl uni2021
-.notdef .notdef
-A.001 A.001
-R.001 R.001
-H.001 H.001
-O.001 O.001
-G.001 G.001
-M.001 M.001
-N.001 N.001
-D.001 D.001
-K.001 K.001
-J.001 J.001
-Q.001 Q.001
 CapVertStem2 CapVertStem2
 CapVertStroke CapVertStroke
 K.002 K.002
@@ -81,4 +59,45 @@ I.Bottom.Major I.Bottom.Major
 I.Bottom.Minor I.Bottom.Minor
 I.Top.Minor I.Top.Minor
 S.001 S.001
+dollar dollar uni0024
+parenright parenright uni0029
+asterisk asterisk uni002A
+parenleft parenleft uni0028
+question question uni003F
 ampersand, ampersand,
+at at uni0040
+dagger dagger uni2020
+quotesingle quotesingle uni0027
+slash slash uni002F
+numbersign numbersign uni0023
+percent percent uni0025
+equal equal uni003D
+plus plus uni002B
+daggerdbl daggerdbl uni2021
+plusminus plusminus uni00B1
+less less uni003C
+greater greater uni003E
+quotedblright quotedblright uni201D
+underscore underscore uni005F
+bar bar uni007C
+minus minus uni2212
+hyphen hyphen uni002D
+emdash emdash uni2014
+endash endash uni2013
+braceleft braceleft uni007B
+quoteright quoteright uni2019
+quotedblleft quotedblleft uni201C
+degree degree uni00B0
+quoteleft quoteleft uni2018
+divide divide uni00F7
+cent cent uni00A2
+bracketleft bracketleft uni005B
+braceright braceright uni007D
+brokenbar brokenbar uni00A6
+backslash backslash uni005C
+bracketright bracketright uni005D
+infinity infinity uni221E
+bullet bullet uni2022
+lozenge lozenge uni25CA
+colon colon uni003A
+semicolon semicolon uni003B

@@ -1,0 +1,130 @@
+
+
+feature kern {
+    @MMK_L_E = [E F];
+    @MMK_L_O = [D O Q Q.001];
+    @MMK_L_V = [V W];
+    @MMK_R_H = [B D E F H I K K.001 K.002 L P R R.001];
+    @MMK_R_O = [C G O Q Q.001];
+    @MMK_R_V = [V W];
+
+    # glyph, glyph
+    pos A T -90;
+    pos A U -40;
+    pos A W -40;
+    pos A Y -90;
+    pos A Z -10;
+    pos B T -20;
+    pos B Y -30;
+    pos G D -10;
+    pos G T -22;
+    pos G W -5;
+    pos G X -15;
+    pos G Y -27;
+    pos G Z -2;
+    pos J A -36;
+    pos J J -30;
+    pos J Z -10;
+    pos L T -80;
+    pos L U -20;
+    pos L Y -70;
+    pos M Z -10;
+    pos P A -50;
+    pos P X -20;
+    pos R T -20;
+    pos R U -12;
+    pos R Y -40;
+    pos R Z -2;
+    pos S X -10;
+    pos S Y -17;
+    pos T A -60;
+    pos T J -70;
+    pos T T -20;
+    pos U A -30;
+    pos U J -10;
+    pos U T -20;
+    pos U U -4;
+    pos U X -22;
+    pos U Z -10;
+    pos X T -40;
+    pos X U -20;
+    pos X Y -40;
+    pos X Z -30;
+    pos Y A -80;
+    pos Y J -72;
+
+    # glyph, group
+    pos A @MMK_R_V -100;
+    pos B @MMK_R_V -10;
+    pos G @MMK_R_H 0;
+    pos G @MMK_R_V -28;
+    pos K @MMK_R_O -20;
+    pos L @MMK_R_V -70;
+    pos R @MMK_R_V -12;
+    pos S @MMK_R_V -16;
+    pos U @MMK_R_O -12;
+    pos X @MMK_R_O -25;
+    pos X @MMK_R_V -30;
+    pos Y @MMK_R_O -29;
+
+    # group, glyph
+    pos @MMK_L_E A -10;
+    pos @MMK_L_E J -60;
+    pos @MMK_L_E T -30;
+    pos @MMK_L_E U -10;
+    pos @MMK_L_E Y -20;
+    pos @MMK_L_O A -10;
+    pos @MMK_L_O T -10;
+    pos @MMK_L_O X -30;
+    pos @MMK_L_O Y -33;
+    pos @MMK_L_V A -92;
+    pos @MMK_L_V J -70;
+    pos @MMK_L_V Z -10;
+
+    # group, group
+    pos @MMK_L_E @MMK_R_O -10;
+    pos @MMK_L_E @MMK_R_V -10;
+    pos @MMK_L_O @MMK_R_V -30;
+    pos @MMK_L_V @MMK_R_O -40;
+} kern;
+
+table OS/2 {
+    FSType 4;
+    Panose 0 0 0 0 0 0 0 0 0 0;
+    UnicodeRange 0;
+    CodePageRange 1252;
+    TypoAscender 750;
+    TypoDescender -250;
+    TypoLineGap 0;
+    winAscent 876;
+    winDescent 124;
+    XHeight 500;
+    CapHeight 676;
+    WeightClass 400;
+    WidthClass 5;
+    Vendor "pyrs";
+} OS/2;
+
+table head {
+    FontRevision 1.000;
+} head;
+
+table hhea {
+    Ascender 750;
+    Descender -250;
+    LineGap 0;
+    CaretOffset 0;
+} hhea;
+
+table name {
+    nameid 0 "Copyright (c) 2015 Wes Adams. All rights reserved.";
+    nameid 0 1 "Copyright (c) 2015 Wes Adams. All rights reserved.";
+    nameid 7 "Ziroli is a trademark of Wes Adams.";
+    nameid 7 1 "Ziroli is a trademark of Wes Adams.";
+    nameid 8 "Wes Adams";
+    nameid 8 1 "Wes Adams";
+    nameid 10 "Copyright (c) 2015 Wes Adams. All rights reserved.";
+    nameid 10 1 "Copyright (c) 2015 Wes Adams. All rights reserved.";
+    nameid 11 "wesadams.info";
+    nameid 11 1 "wesadams.info";
+} name;
