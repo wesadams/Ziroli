@@ -29,11 +29,11 @@
     </contour>
     <contour>
       <point x="259" y="361" type="line"/>
-      <point x="315" y="289"/>
-      <point x="492" y="61"/>
-      <point x="641" y="-69" type="curve"/>
+      <point x="312" y="291"/>
+      <point x="484" y="81"/>
+      <point x="642" y="-68" type="curve"/>
       <point x="656" y="-62" type="line"/>
-      <point x="574" y="58"/>
+      <point x="574" y="66"/>
       <point x="434" y="313"/>
       <point x="377" y="439" type="curve"/>
       <point x="334" y="382" type="line"/>
@@ -459,6 +459,13 @@
           <integer>666</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.7848</real>
+        <real>1.0</real>
+        <real>0.2125</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

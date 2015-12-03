@@ -17,7 +17,6 @@ V V uni0056
 W W uni0057
 X X uni0058
 Y Y uni0059
-Z Z uni005A
 I I uni0049
 P P uni0050
 L L uni004C
@@ -41,10 +40,8 @@ K.001 K.001
 J J uni004A
 J.001 J.001
 Q Q uni0051
-Q.001 Q.001
 CapVertStem2 CapVertStem2
 CapVertStroke CapVertStroke
-K.002 K.002
 I.Bottom I.Bottom
 I.Top I.Top
 I.Top.Major I.Top.Major
@@ -72,12 +69,13 @@ less less uni003C
 greater greater uni003E
 quotedblright quotedblright uni201D
 underscore underscore uni005F
-bar bar uni007C
 minus minus uni2212
 hyphen hyphen uni002D
 emdash emdash uni2014
 endash endash uni2013
 braceleft braceleft uni007B
+bar bar uni007C
+braceright braceright uni007D
 quoteright quoteright uni2019
 quotedblleft quotedblleft uni201C
 degree degree uni00B0
@@ -85,7 +83,6 @@ quoteleft quoteleft uni2018
 divide divide uni00F7
 cent cent uni00A2
 bracketleft bracketleft uni005B
-braceright braceright uni007D
 brokenbar brokenbar uni00A6
 backslash backslash uni005C
 bracketright bracketright uni005D
@@ -95,8 +92,8 @@ lozenge lozenge uni25CA
 colon colon uni003A
 semicolon semicolon uni003B
 space.002 space.002
-D.001 D.001
 H H uni0048
 M M uni004D
 O O uni004F
 N N uni004E
+Z Z uni005A

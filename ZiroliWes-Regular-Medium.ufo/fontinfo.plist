@@ -11,7 +11,7 @@
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
-	<string>ZiroliWes</string>
+	<string>Ziroli</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>openTypeHeadCreated</key>
@@ -36,17 +36,11 @@
 	<key>openTypeHheaLineGap</key>
 	<integer>0</integer>
 	<key>openTypeNameDescription</key>
-	<string>Copyright (c) 2010 by Jeremy Mickel. All rights reserved.</string>
+	<string>Copyright (c) 2015 Wes Adams. All rights reserved.</string>
 	<key>openTypeNameManufacturer</key>
 	<string>Wes Adams</string>
 	<key>openTypeNameManufacturerURL</key>
 	<string>wesadams.info</string>
-	<key>openTypeNamePreferredFamilyName</key>
-	<string>Ziroli</string>
-	<key>openTypeNamePreferredSubfamilyName</key>
-	<string>4</string>
-	<key>openTypeNameUniqueID</key>
-	<string>JeremyMickel: Ziroli 4: 2010</string>
 	<key>openTypeNameVersion</key>
 	<string>1.000</string>
 	<key>openTypeOS2CodePageRanges</key>
@@ -128,12 +122,8 @@
 	<key>postscriptFamilyOtherBlues</key>
 	<array>
 	</array>
-	<key>postscriptFontName</key>
-	<string>Ziroli-4</string>
 	<key>postscriptForceBold</key>
 	<false/>
-	<key>postscriptFullName</key>
-	<string>Ziroli 4</string>
 	<key>postscriptIsFixedPitch</key>
 	<false/>
 	<key>postscriptOtherBlues</key>
@@ -149,16 +139,12 @@
 	<integer>-75</integer>
 	<key>postscriptUnderlineThickness</key>
 	<integer>50</integer>
-	<key>postscriptWeightName</key>
-	<string>Normal</string>
-	<key>styleMapFamilyName</key>
-	<string>ZiroliWes</string>
 	<key>styleMapStyleName</key>
 	<string>regular</string>
 	<key>styleName</key>
-	<string>Regular</string>
+	<string>Medium</string>
 	<key>trademark</key>
-	<string>Ziroli 5 is a trademark of Wes Adams.</string>
+	<string>Ziroli is a trademark of Wes Adams.</string>
 	<key>unitsPerEm</key>
 	<integer>1000</integer>
 	<key>versionMajor</key>

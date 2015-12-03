@@ -24,13 +24,13 @@
       <point x="557" y="656"/>
       <point x="563" y="637"/>
       <point x="563" y="424" type="curve" smooth="yes"/>
-      <point x="563" y="391" type="line"/>
+      <point x="563" y="392" type="line"/>
       <point x="524" y="389"/>
       <point x="478" y="388"/>
-      <point x="415" y="388" type="curve" smooth="yes"/>
+      <point x="409" y="388" type="curve" smooth="yes"/>
       <point x="358" y="388"/>
-      <point x="287" y="390"/>
-      <point x="240" y="391" type="curve"/>
+      <point x="281" y="390"/>
+      <point x="240" y="392" type="curve"/>
       <point x="240" y="424" type="line" smooth="yes"/>
       <point x="240" y="637"/>
       <point x="248" y="656"/>
@@ -61,13 +61,13 @@
       <point x="250" y="17"/>
       <point x="240" y="38"/>
       <point x="240" y="248" type="curve" smooth="yes"/>
-      <point x="240" y="330" type="line"/>
-      <point x="283" y="331"/>
-      <point x="332" y="333"/>
-      <point x="399" y="333" type="curve" smooth="yes"/>
-      <point x="466" y="333"/>
-      <point x="521" y="332"/>
-      <point x="563" y="331" type="curve"/>
+      <point x="240" y="328" type="line"/>
+      <point x="283" y="329"/>
+      <point x="332" y="331"/>
+      <point x="393" y="331" type="curve" smooth="yes"/>
+      <point x="466" y="331"/>
+      <point x="521" y="330"/>
+      <point x="563" y="329" type="curve"/>
       <point x="563" y="248" type="line" smooth="yes"/>
       <point x="563" y="38"/>
       <point x="555" y="17"/>
@@ -159,6 +159,13 @@
           <integer>803</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.7848</real>
+        <real>1.0</real>
+        <real>0.2125</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

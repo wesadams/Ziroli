@@ -6,25 +6,25 @@
     <contour>
       <point x="64" y="10" type="curve"/>
       <point x="69" y="-1" type="line"/>
-      <point x="132.752176399" y="3.18047058356"/>
-      <point x="300.012944984" y="4.0"/>
+      <point x="133" y="3"/>
+      <point x="300" y="4"/>
       <point x="392" y="4" type="curve"/>
       <point x="392" y="26" type="line"/>
-      <point x="313.809647837" y="23.8280457732"/>
+      <point x="314" y="24"/>
       <point x="208" y="34"/>
       <point x="215" y="47" type="curve" smooth="yes"/>
-      <point x="299.614799032" y="209.178364811"/>
-      <point x="440" y="419"/>
+      <point x="300" y="209"/>
+      <point x="437" y="421"/>
       <point x="539" y="589" type="curve" smooth="yes"/>
-      <point x="584" y="666" type="line"/>
+      <point x="586" y="666" type="line"/>
       <point x="584" y="680" type="line"/>
-      <point x="561" y="676"/>
-      <point x="491.0" y="673.0"/>
-      <point x="431" y="673" type="curve"/>
+      <point x="560.896879737" y="675.982066041"/>
+      <point x="491.0" y="672.0"/>
+      <point x="431" y="672" type="curve"/>
       <point x="431" y="639" type="line"/>
       <point x="429" y="623" type="line"/>
-      <point x="383.938844479" y="522.864098842"/>
-      <point x="213.001045221" y="229.474512555"/>
+      <point x="384" y="523"/>
+      <point x="213" y="229"/>
     </contour>
     <contour>
       <point x="144" y="7" type="line"/>
@@ -47,31 +47,48 @@
       <point x="151" y="71" type="curve"/>
     </contour>
     <contour>
-      <point x="456" y="616" type="curve"/>
-      <point x="456" y="629"/>
-      <point x="470" y="656"/>
-      <point x="470" y="668" type="curve"/>
-      <point x="337" y="668" type="line" smooth="yes"/>
-      <point x="258" y="668"/>
-      <point x="186" y="671"/>
-      <point x="141" y="685" type="curve" smooth="yes"/>
-      <point x="121" y="692"/>
-      <point x="111" y="703"/>
-      <point x="101" y="714" type="curve"/>
-      <point x="91" y="713" type="line"/>
-      <point x="91" y="674"/>
-      <point x="81" y="570"/>
-      <point x="54" y="490" type="curve"/>
-      <point x="70" y="488" type="line"/>
-      <point x="94" y="599"/>
-      <point x="138" y="616"/>
-      <point x="300" y="616" type="curve" smooth="yes"/>
-      <point x="346" y="616"/>
-      <point x="340" y="619"/>
+      <point x="438" y="612" type="curve"/>
+      <point x="438" y="628"/>
+      <point x="450" y="658"/>
+      <point x="450" y="672" type="curve"/>
+      <point x="337" y="672" type="line" smooth="yes"/>
+      <point x="257" y="672"/>
+      <point x="188" y="673"/>
+      <point x="144" y="683" type="curve" smooth="yes"/>
+      <point x="118" y="689"/>
+      <point x="104" y="698"/>
+      <point x="101" y="708" type="curve"/>
+      <point x="91" y="706" type="line"/>
+      <point x="93" y="664"/>
+      <point x="85" y="568"/>
+      <point x="54" y="491" type="curve"/>
+      <point x="72" y="484" type="line"/>
+      <point x="94" y="600"/>
+      <point x="140" y="618"/>
+      <point x="292" y="618" type="curve" smooth="yes"/>
+      <point x="343.208955224" y="618.0"/>
+      <point x="384" y="618"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+        <dict>
+          <key>angle</key>
+          <real>90.0</real>
+          <key>isGlobal</key>
+          <false/>
+          <key>magnetic</key>
+          <integer>5</integer>
+          <key>name</key>
+          <string></string>
+          <key>x</key>
+          <integer>54</integer>
+          <key>y</key>
+          <integer>490</integer>
+        </dict>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Background</key>
@@ -627,6 +644,13 @@
           <integer>638</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>0.7848</real>
+        <real>1.0</real>
+        <real>0.2125</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

@@ -3,22 +3,22 @@
   <advance width="337"/>
   <outline>
     <contour>
-      <point x="28" y="-187" type="curve" smooth="yes"/>
-      <point x="98" y="-187"/>
-      <point x="140" y="-142"/>
-      <point x="140" y="106" type="curve" smooth="yes"/>
+      <point x="22" y="-191" type="curve" smooth="yes"/>
+      <point x="101.0" y="-191.0"/>
+      <point x="140" y="-146.921146953"/>
+      <point x="140" y="95" type="curve" smooth="yes"/>
       <point x="140" y="365" type="line"/>
       <point x="240" y="365" type="line"/>
-      <point x="240" y="-4" type="line" smooth="yes"/>
-      <point x="240" y="-182"/>
-      <point x="177" y="-228"/>
-      <point x="62" y="-228" type="curve" smooth="yes"/>
-      <point x="-5" y="-228"/>
-      <point x="-64" y="-192"/>
-      <point x="-96" y="-127" type="curve"/>
-      <point x="-79" y="-119" type="line"/>
-      <point x="-44" y="-171"/>
-      <point x="3" y="-187"/>
+      <point x="240" y="-15" type="line" smooth="yes"/>
+      <point x="240" y="-193"/>
+      <point x="177" y="-239"/>
+      <point x="77" y="-239" type="curve" smooth="yes"/>
+      <point x="-4.0" y="-239.0"/>
+      <point x="-58.4453133879" y="-203.713168501"/>
+      <point x="-94" y="-158" type="curve"/>
+      <point x="-82" y="-149" type="line"/>
+      <point x="-38.2215810962" y="-181.579288487"/>
+      <point x="-2.0" y="-191.0"/>
     </contour>
     <contour>
       <point x="240" y="324" type="line"/>
@@ -42,6 +42,9 @@
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Background</key>
@@ -89,6 +92,13 @@
           <integer>337</integer>
         </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

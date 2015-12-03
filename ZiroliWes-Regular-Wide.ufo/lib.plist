@@ -239,6 +239,20 @@
 			<key>y</key>
 			<integer>-27</integer>
 		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>77</integer>
+			<key>y</key>
+			<integer>-239</integer>
+		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
 	<integer>0</integer>
@@ -282,7 +296,6 @@
 				<string>W</string>
 				<string>X</string>
 				<string>Y</string>
-				<string>Z</string>
 				<string>I</string>
 				<string>P</string>
 				<string>L</string>
@@ -306,10 +319,8 @@
 				<string>J</string>
 				<string>J.001</string>
 				<string>Q</string>
-				<string>Q.001</string>
 				<string>CapVertStem2</string>
 				<string>CapVertStroke</string>
-				<string>K.002</string>
 				<string>I.Bottom</string>
 				<string>I.Top</string>
 				<string>I.Top.Major</string>
@@ -337,12 +348,13 @@
 				<string>greater</string>
 				<string>quotedblright</string>
 				<string>underscore</string>
-				<string>bar</string>
 				<string>minus</string>
 				<string>hyphen</string>
 				<string>emdash</string>
 				<string>endash</string>
 				<string>braceleft</string>
+				<string>bar</string>
+				<string>braceright</string>
 				<string>quoteright</string>
 				<string>quotedblleft</string>
 				<string>degree</string>
@@ -350,7 +362,6 @@
 				<string>divide</string>
 				<string>cent</string>
 				<string>bracketleft</string>
-				<string>braceright</string>
 				<string>brokenbar</string>
 				<string>backslash</string>
 				<string>bracketright</string>
@@ -360,11 +371,11 @@
 				<string>colon</string>
 				<string>semicolon</string>
 				<string>space.002</string>
-				<string>D.001</string>
 				<string>H</string>
 				<string>M</string>
 				<string>O</string>
 				<string>N</string>
+				<string>Z</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -450,7 +461,6 @@
 		<string>W</string>
 		<string>X</string>
 		<string>Y</string>
-		<string>Z</string>
 		<string>I</string>
 		<string>P</string>
 		<string>L</string>
@@ -474,10 +484,8 @@
 		<string>J</string>
 		<string>J.001</string>
 		<string>Q</string>
-		<string>Q.001</string>
 		<string>CapVertStem2</string>
 		<string>CapVertStroke</string>
-		<string>K.002</string>
 		<string>I.Bottom</string>
 		<string>I.Top</string>
 		<string>I.Top.Major</string>
@@ -505,12 +513,13 @@
 		<string>greater</string>
 		<string>quotedblright</string>
 		<string>underscore</string>
-		<string>bar</string>
 		<string>minus</string>
 		<string>hyphen</string>
 		<string>emdash</string>
 		<string>endash</string>
 		<string>braceleft</string>
+		<string>bar</string>
+		<string>braceright</string>
 		<string>quoteright</string>
 		<string>quotedblleft</string>
 		<string>degree</string>
@@ -518,7 +527,6 @@
 		<string>divide</string>
 		<string>cent</string>
 		<string>bracketleft</string>
-		<string>braceright</string>
 		<string>brokenbar</string>
 		<string>backslash</string>
 		<string>bracketright</string>
@@ -528,11 +536,11 @@
 		<string>colon</string>
 		<string>semicolon</string>
 		<string>space.002</string>
-		<string>D.001</string>
 		<string>H</string>
 		<string>M</string>
 		<string>O</string>
 		<string>N</string>
+		<string>Z</string>
 	</array>
 </dict>
 </plist>
