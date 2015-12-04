@@ -4,59 +4,62 @@
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="378" y="-4" type="curve"/>
-      <point x="378" y="12" type="line"/>
-      <point x="319" y="15"/>
-      <point x="308" y="35"/>
-      <point x="370" y="202" type="curve" smooth="yes"/>
-      <point x="439.604080138" y="390.925360374"/>
-      <point x="540.053914676" y="609.090386369"/>
-      <point x="574" y="666" type="curve"/>
-      <point x="572" y="680" type="line"/>
-      <point x="546.266375377" y="673.823930091"/>
-      <point x="424.677130045" y="670.0"/>
-      <point x="339" y="670" type="curve"/>
-      <point x="339" y="646" type="line"/>
-      <point x="433" y="630" type="line"/>
-      <point x="406" y="535"/>
-      <point x="319" y="310"/>
-      <point x="267" y="192" type="curve" smooth="yes"/>
-      <point x="198" y="35"/>
-      <point x="173" y="16"/>
-      <point x="93" y="12" type="curve"/>
-      <point x="93" y="-4" type="line"/>
-      <point x="130" y="0"/>
-      <point x="179" y="4"/>
-      <point x="220" y="4" type="curve" smooth="yes"/>
-      <point x="262" y="4"/>
-      <point x="342" y="0"/>
+      <point x="386" y="-4" type="curve"/>
+      <point x="386" y="12" type="line"/>
+      <point x="330" y="12"/>
+      <point x="314" y="28"/>
+      <point x="358" y="145" type="curve" smooth="yes"/>
+      <point x="451" y="392"/>
+      <point x="557.12910077" y="608.213938418"/>
+      <point x="592" y="666" type="curve"/>
+      <point x="590" y="680" type="line"/>
+      <point x="561.063568343" y="672.765892086"/>
+      <point x="423.398406375" y="670.0"/>
+      <point x="327" y="670" type="curve"/>
+      <point x="327" y="646" type="line"/>
+      <point x="444" y="630" type="line"/>
+      <point x="416.0" y="533.0"/>
+      <point x="324.097192986" y="307.224291507"/>
+      <point x="272" y="187" type="curve" smooth="yes"/>
+      <point x="209" y="44"/>
+      <point x="179.704867111" y="15.8866601043"/>
+      <point x="101" y="12" type="curve"/>
+      <point x="101" y="-4" type="line"/>
+      <point x="138" y="0"/>
+      <point x="187" y="4"/>
+      <point x="228" y="4" type="curve" smooth="yes"/>
+      <point x="270" y="4"/>
+      <point x="350" y="0"/>
     </contour>
     <contour>
-      <point x="446" y="610" type="curve"/>
-      <point x="446" y="626"/>
-      <point x="458" y="656"/>
-      <point x="458" y="670" type="curve"/>
-      <point x="357" y="670" type="line" smooth="yes"/>
-      <point x="277" y="670"/>
-      <point x="208" y="671"/>
-      <point x="164" y="681" type="curve" smooth="yes"/>
-      <point x="138" y="687"/>
-      <point x="124" y="696"/>
-      <point x="121" y="706" type="curve"/>
-      <point x="111" y="704" type="line"/>
-      <point x="113" y="662"/>
-      <point x="105" y="566"/>
-      <point x="74" y="489" type="curve"/>
-      <point x="92" y="482" type="line"/>
-      <point x="114" y="598"/>
-      <point x="160" y="616"/>
-      <point x="312" y="616" type="curve" smooth="yes"/>
-      <point x="359" y="616"/>
-      <point x="395" y="617"/>
+      <point x="474" y="609" type="curve"/>
+      <point x="474" y="625"/>
+      <point x="481.0" y="655.766666667"/>
+      <point x="481" y="670" type="curve"/>
+      <point x="345" y="670" type="line" smooth="yes"/>
+      <point x="259.611398964" y="670"/>
+      <point x="185.822545128" y="670.358512471"/>
+      <point x="139" y="681" type="curve" smooth="yes"/>
+      <point x="113" y="687"/>
+      <point x="99" y="696"/>
+      <point x="96" y="706" type="curve"/>
+      <point x="86" y="704" type="line"/>
+      <point x="88" y="662"/>
+      <point x="80" y="566"/>
+      <point x="49" y="489" type="curve"/>
+      <point x="67" y="482" type="line"/>
+      <point x="89" y="598"/>
+      <point x="144" y="616"/>
+      <point x="287" y="616" type="curve" smooth="yes"/>
+      <point x="353" y="616"/>
+      <point x="403" y="615"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>com.typemytype.robofont.guides</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
         <key>Background</key>

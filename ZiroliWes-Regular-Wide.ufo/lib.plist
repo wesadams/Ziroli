@@ -31,7 +31,7 @@
 	<key>com.typemytype.robofont.compileSettings.generateFormat</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.compileSettings.path</key>
-	<string>/Users/x2/Documents/STUDIO/39-Ziroli/GIT/ZiroliWes-Regular2.otf</string>
+	<string>/Users/x2/Documents/STUDIO/39-Ziroli/GIT/ZiroliWes-Regular-Wide.otf</string>
 	<key>com.typemytype.robofont.compileSettings.releaseMode</key>
 	<integer>0</integer>
 	<key>com.typemytype.robofont.foreground.layerStrokeColor</key>
@@ -252,6 +252,20 @@
 			<integer>77</integer>
 			<key>y</key>
 			<integer>-239</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>123</integer>
+			<key>y</key>
+			<integer>706</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
