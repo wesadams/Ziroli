@@ -83,10 +83,10 @@
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
-        <real>0.7848</real>
+        <real>0.8309</real>
+        <real>0.2187</real>
         <real>1.0</real>
-        <real>0.2125</real>
-        <real>1.0</real>
+        <real>0.8</real>
       </array>
     </dict>
   </lib>

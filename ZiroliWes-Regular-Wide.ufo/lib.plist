@@ -109,9 +109,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>388</integer>
+			<integer>503</integer>
 			<key>y</key>
-			<integer>468</integer>
+			<integer>475</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -123,9 +123,9 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>56</integer>
+			<integer>541</integer>
 			<key>y</key>
-			<integer>194</integer>
+			<integer>180</integer>
 		</dict>
 		<dict>
 			<key>angle</key>
@@ -263,9 +263,37 @@
 			<key>name</key>
 			<string></string>
 			<key>x</key>
-			<integer>123</integer>
+			<integer>596</integer>
 			<key>y</key>
-			<integer>706</integer>
+			<integer>704</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>652</integer>
+			<key>y</key>
+			<integer>184</integer>
+		</dict>
+		<dict>
+			<key>angle</key>
+			<integer>0</integer>
+			<key>isGlobal</key>
+			<integer>1</integer>
+			<key>magnetic</key>
+			<integer>5</integer>
+			<key>name</key>
+			<string></string>
+			<key>x</key>
+			<integer>434</integer>
+			<key>y</key>
+			<integer>485</integer>
 		</dict>
 	</array>
 	<key>com.typemytype.robofont.italicSlantOffset</key>
@@ -292,15 +320,29 @@
 			<key>ascending</key>
 			<array>
 				<string>.notdef</string>
-				<string>C</string>
 				<string>A</string>
 				<string>A.001</string>
+				<string>B</string>
+				<string>C</string>
+				<string>D</string>
 				<string>E</string>
 				<string>E.001</string>
 				<string>F</string>
 				<string>F.001</string>
 				<string>G</string>
 				<string>G.001</string>
+				<string>H</string>
+				<string>I</string>
+				<string>J</string>
+				<string>J.001</string>
+				<string>K</string>
+				<string>K.001</string>
+				<string>L</string>
+				<string>M</string>
+				<string>N</string>
+				<string>O</string>
+				<string>P</string>
+				<string>Q</string>
 				<string>R</string>
 				<string>R.001</string>
 				<string>S</string>
@@ -310,9 +352,7 @@
 				<string>W</string>
 				<string>X</string>
 				<string>Y</string>
-				<string>I</string>
-				<string>P</string>
-				<string>L</string>
+				<string>Z</string>
 				<string>one</string>
 				<string>two</string>
 				<string>three</string>
@@ -326,27 +366,11 @@
 				<string>period</string>
 				<string>comma</string>
 				<string>space</string>
-				<string>B</string>
-				<string>D</string>
-				<string>K</string>
-				<string>K.001</string>
-				<string>J</string>
-				<string>J.001</string>
-				<string>Q</string>
-				<string>CapVertStem2</string>
-				<string>CapVertStroke</string>
-				<string>I.Bottom</string>
-				<string>I.Top</string>
-				<string>I.Top.Major</string>
-				<string>I.Bottom.Major</string>
-				<string>I.Bottom.Minor</string>
-				<string>I.Top.Minor</string>
 				<string>S.001</string>
 				<string>dollar</string>
 				<string>parenright</string>
 				<string>asterisk</string>
 				<string>parenleft</string>
-				<string>question</string>
 				<string>ampersand,</string>
 				<string>at</string>
 				<string>dagger</string>
@@ -354,18 +378,12 @@
 				<string>slash</string>
 				<string>numbersign</string>
 				<string>percent</string>
-				<string>equal</string>
 				<string>plus</string>
 				<string>daggerdbl</string>
 				<string>plusminus</string>
 				<string>less</string>
 				<string>greater</string>
 				<string>quotedblright</string>
-				<string>underscore</string>
-				<string>minus</string>
-				<string>hyphen</string>
-				<string>emdash</string>
-				<string>endash</string>
 				<string>braceleft</string>
 				<string>bar</string>
 				<string>braceright</string>
@@ -374,6 +392,12 @@
 				<string>degree</string>
 				<string>quoteleft</string>
 				<string>divide</string>
+				<string>equal</string>
+				<string>underscore</string>
+				<string>minus</string>
+				<string>hyphen</string>
+				<string>emdash</string>
+				<string>endash</string>
 				<string>cent</string>
 				<string>bracketleft</string>
 				<string>brokenbar</string>
@@ -385,11 +409,8 @@
 				<string>colon</string>
 				<string>semicolon</string>
 				<string>space.002</string>
-				<string>H</string>
-				<string>M</string>
-				<string>O</string>
-				<string>N</string>
-				<string>Z</string>
+				<string>question</string>
+				<string>exclam</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -457,15 +478,29 @@
 	<key>public.glyphOrder</key>
 	<array>
 		<string>.notdef</string>
-		<string>C</string>
 		<string>A</string>
 		<string>A.001</string>
+		<string>B</string>
+		<string>C</string>
+		<string>D</string>
 		<string>E</string>
 		<string>E.001</string>
 		<string>F</string>
 		<string>F.001</string>
 		<string>G</string>
 		<string>G.001</string>
+		<string>H</string>
+		<string>I</string>
+		<string>J</string>
+		<string>J.001</string>
+		<string>K</string>
+		<string>K.001</string>
+		<string>L</string>
+		<string>M</string>
+		<string>N</string>
+		<string>O</string>
+		<string>P</string>
+		<string>Q</string>
 		<string>R</string>
 		<string>R.001</string>
 		<string>S</string>
@@ -475,9 +510,7 @@
 		<string>W</string>
 		<string>X</string>
 		<string>Y</string>
-		<string>I</string>
-		<string>P</string>
-		<string>L</string>
+		<string>Z</string>
 		<string>one</string>
 		<string>two</string>
 		<string>three</string>
@@ -491,27 +524,11 @@
 		<string>period</string>
 		<string>comma</string>
 		<string>space</string>
-		<string>B</string>
-		<string>D</string>
-		<string>K</string>
-		<string>K.001</string>
-		<string>J</string>
-		<string>J.001</string>
-		<string>Q</string>
-		<string>CapVertStem2</string>
-		<string>CapVertStroke</string>
-		<string>I.Bottom</string>
-		<string>I.Top</string>
-		<string>I.Top.Major</string>
-		<string>I.Bottom.Major</string>
-		<string>I.Bottom.Minor</string>
-		<string>I.Top.Minor</string>
 		<string>S.001</string>
 		<string>dollar</string>
 		<string>parenright</string>
 		<string>asterisk</string>
 		<string>parenleft</string>
-		<string>question</string>
 		<string>ampersand,</string>
 		<string>at</string>
 		<string>dagger</string>
@@ -519,18 +536,12 @@
 		<string>slash</string>
 		<string>numbersign</string>
 		<string>percent</string>
-		<string>equal</string>
 		<string>plus</string>
 		<string>daggerdbl</string>
 		<string>plusminus</string>
 		<string>less</string>
 		<string>greater</string>
 		<string>quotedblright</string>
-		<string>underscore</string>
-		<string>minus</string>
-		<string>hyphen</string>
-		<string>emdash</string>
-		<string>endash</string>
 		<string>braceleft</string>
 		<string>bar</string>
 		<string>braceright</string>
@@ -539,6 +550,12 @@
 		<string>degree</string>
 		<string>quoteleft</string>
 		<string>divide</string>
+		<string>equal</string>
+		<string>underscore</string>
+		<string>minus</string>
+		<string>hyphen</string>
+		<string>emdash</string>
+		<string>endash</string>
 		<string>cent</string>
 		<string>bracketleft</string>
 		<string>brokenbar</string>
@@ -550,11 +567,8 @@
 		<string>colon</string>
 		<string>semicolon</string>
 		<string>space.002</string>
-		<string>H</string>
-		<string>M</string>
-		<string>O</string>
-		<string>N</string>
-		<string>Z</string>
+		<string>question</string>
+		<string>exclam</string>
 	</array>
 </dict>
 </plist>

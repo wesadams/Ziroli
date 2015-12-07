@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="comma" format="1">
-  <advance width="251"/>
+  <advance width="239"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="19" y="33" type="curve"/>
-      <point x="12" y="39" type="line"/>
-      <point x="24" y="75"/>
-      <point x="54" y="120"/>
-      <point x="108" y="120" type="curve" smooth="yes"/>
-      <point x="156" y="120"/>
-      <point x="195" y="90"/>
-      <point x="195" y="33" type="curve" smooth="yes"/>
-      <point x="195" y="-40"/>
-      <point x="152" y="-113"/>
-      <point x="46" y="-184" type="curve"/>
-      <point x="37" y="-161" type="line"/>
-      <point x="94" y="-135"/>
-      <point x="126" y="-81"/>
-      <point x="126" y="-18" type="curve" smooth="yes"/>
-      <point x="126.0" y="13.9491525424"/>
-      <point x="102.789473684" y="47.0"/>
-      <point x="63" y="47" type="curve" smooth="yes"/>
-      <point x="48" y="47"/>
-      <point x="33" y="42"/>
+      <point x="23" y="34" type="curve"/>
+      <point x="13" y="46" type="line"/>
+      <point x="36.5655242793" y="70.5474211242"/>
+      <point x="96.0" y="101.0"/>
+      <point x="133" y="101" type="curve" smooth="yes"/>
+      <point x="184.0" y="101.0"/>
+      <point x="195.0" y="66.5882352941"/>
+      <point x="195" y="41" type="curve" smooth="yes"/>
+      <point x="195.0" y="-14.9115044248"/>
+      <point x="150.057357583" y="-120.989702438"/>
+      <point x="53" y="-193" type="curve"/>
+      <point x="45" y="-178" type="line"/>
+      <point x="103" y="-131"/>
+      <point x="119" y="-75"/>
+      <point x="119" y="-27" type="curve" smooth="yes"/>
+      <point x="119" y="27"/>
+      <point x="92" y="55"/>
+      <point x="67" y="55" type="curve" smooth="yes"/>
+      <point x="50" y="55"/>
+      <point x="35.8439973316" y="48.6788540932"/>
     </contour>
   </outline>
   <lib>
@@ -195,7 +195,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>251</integer>
+          <integer>239</integer>
         </dict>
         <key>midground</key>
         <dict>
@@ -217,7 +217,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>251</integer>
+          <integer>239</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>

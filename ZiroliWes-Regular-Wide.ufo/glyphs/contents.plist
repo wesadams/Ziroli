@@ -12,10 +12,6 @@
 	<string>B_.glif</string>
 	<key>C</key>
 	<string>C_.glif</string>
-	<key>CapVertStem2</key>
-	<string>CapVertStem2_.glif</string>
-	<key>CapVertStroke</key>
-	<string>CapVertStroke_.glif</string>
 	<key>D</key>
 	<string>D_.glif</string>
 	<key>E</key>
@@ -34,18 +30,6 @@
 	<string>H_.glif</string>
 	<key>I</key>
 	<string>I_.glif</string>
-	<key>I.Bottom</key>
-	<string>I_.Bottom_.glif</string>
-	<key>I.Bottom.Major</key>
-	<string>I_.Bottom_.Major_.glif</string>
-	<key>I.Bottom.Minor</key>
-	<string>I_.Bottom_.Minor_.glif</string>
-	<key>I.Top</key>
-	<string>I_.Top_.glif</string>
-	<key>I.Top.Major</key>
-	<string>I_.Top_.Major_.glif</string>
-	<key>I.Top.Minor</key>
-	<string>I_.Top_.Minor_.glif</string>
 	<key>J</key>
 	<string>J_.glif</string>
 	<key>J.001</key>

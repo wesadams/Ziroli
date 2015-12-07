@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R.001" format="1">
-  <advance width="702"/>
+  <advance width="790"/>
   <outline>
     <contour>
       <point x="208" y="612" type="line"/>
       <point x="229.681166387" y="619.541275265"/>
-      <point x="261.322580645" y="624.0"/>
+      <point x="261" y="624"/>
       <point x="295" y="624" type="curve" smooth="yes"/>
-      <point x="364" y="624"/>
+      <point x="374" y="624"/>
       <point x="449" y="585"/>
-      <point x="449" y="473" type="curve" smooth="yes"/>
-      <point x="449.0" y="418.495495495"/>
-      <point x="419.919683048" y="381.943480664"/>
-      <point x="393" y="363" type="curve" smooth="yes"/>
-      <point x="365" y="343"/>
-      <point x="328" y="338"/>
-      <point x="303" y="338" type="curve" smooth="yes"/>
-      <point x="268.0" y="338.0"/>
-      <point x="226.965117127" y="348.008720718"/>
-      <point x="219" y="350" type="curve"/>
-      <point x="222" y="294" type="line"/>
-      <point x="233.0" y="296.0"/>
-      <point x="265.0" y="296.0"/>
-      <point x="288" y="296" type="curve"/>
-      <point x="356" y="298" type="line"/>
-      <point x="376" y="316" type="line"/>
-      <point x="493" y="343"/>
-      <point x="547" y="421"/>
-      <point x="547" y="494" type="curve" smooth="yes"/>
+      <point x="449" y="481" type="curve" smooth="yes"/>
+      <point x="449.0" y="423.123893805"/>
+      <point x="419.687253018" y="390.77991879"/>
+      <point x="393" y="372" type="curve" smooth="yes"/>
+      <point x="365.154580635" y="352.110414739"/>
+      <point x="327.0" y="348.0"/>
+      <point x="302" y="348" type="curve" smooth="yes"/>
+      <point x="267" y="348"/>
+      <point x="227" y="357"/>
+      <point x="219" y="359" type="curve"/>
+      <point x="219" y="300" type="line"/>
+      <point x="231" y="302"/>
+      <point x="265.0" y="304.0"/>
+      <point x="288" y="304" type="curve"/>
+      <point x="356" y="306" type="line"/>
+      <point x="372" y="320" type="line"/>
+      <point x="487.556007854" y="341.475010309"/>
+      <point x="547.0" y="419.0"/>
+      <point x="547" y="492" type="curve" smooth="yes"/>
       <point x="547" y="623"/>
       <point x="456" y="677"/>
       <point x="331" y="676" type="curve" smooth="yes"/>
@@ -36,36 +36,39 @@
       <point x="196" y="672" type="curve"/>
     </contour>
     <contour>
-      <point x="253" y="297" type="line"/>
-      <point x="323.422764228" y="297.0"/>
-      <point x="348.09106852" y="281.892066939"/>
+      <point x="236" y="294" type="line"/>
+      <point x="249" y="295"/>
+      <point x="260" y="295"/>
+      <point x="271" y="295" type="curve" smooth="yes"/>
+      <point x="317" y="295"/>
+      <point x="349" y="282"/>
       <point x="375" y="250" type="curve" smooth="yes"/>
-      <point x="406.166679975" y="212.801059384"/>
-      <point x="434.940772865" y="166.102002288"/>
-      <point x="453" y="135" type="curve" smooth="yes"/>
-      <point x="482" y="90"/>
-      <point x="497" y="57"/>
-      <point x="518" y="33" type="curve" smooth="yes"/>
-      <point x="552" y="-6"/>
-      <point x="585" y="-17"/>
-      <point x="636" y="-17" type="curve" smooth="yes"/>
-      <point x="675" y="-17"/>
-      <point x="727" y="-2"/>
-      <point x="760" y="19" type="curve"/>
-      <point x="753" y="33" type="line"/>
-      <point x="747" y="26"/>
-      <point x="732" y="20"/>
-      <point x="713" y="20" type="curve" smooth="yes"/>
-      <point x="681" y="20"/>
-      <point x="645" y="40"/>
-      <point x="581" y="125" type="curve" smooth="yes"/>
-      <point x="529" y="195"/>
-      <point x="496" y="253"/>
-      <point x="451" y="291" type="curve" smooth="yes"/>
-      <point x="423" y="315"/>
+      <point x="407.0" y="211.0"/>
+      <point x="433.0" y="166.0"/>
+      <point x="455" y="127" type="curve" smooth="yes"/>
+      <point x="478" y="88"/>
+      <point x="498.0" y="54.0"/>
+      <point x="515.0" y="34.0" type="curve" smooth="yes"/>
+      <point x="551.0" y="-8.0"/>
+      <point x="592.0" y="-16.0"/>
+      <point x="636.0" y="-16.0" type="curve" smooth="yes"/>
+      <point x="696.0" y="-16.0"/>
+      <point x="753" y="5"/>
+      <point x="793" y="34" type="curve"/>
+      <point x="786" y="49" type="line"/>
+      <point x="776" y="38"/>
+      <point x="756" y="26"/>
+      <point x="729" y="26" type="curve" smooth="yes"/>
+      <point x="693" y="26"/>
+      <point x="646.0" y="39.0"/>
+      <point x="581.0" y="125.0" type="curve" smooth="yes"/>
+      <point x="529.0" y="195.0"/>
+      <point x="496.0" y="253.0"/>
+      <point x="451.0" y="291.0" type="curve" smooth="yes"/>
+      <point x="423.0" y="315.0"/>
       <point x="388" y="323"/>
       <point x="349" y="329" type="curve"/>
-      <point x="263" y="329" type="line"/>
+      <point x="236" y="329" type="line"/>
     </contour>
     <contour>
       <point x="240" y="325" type="line"/>
@@ -85,10 +88,10 @@
     <contour>
       <point x="326" y="-4" type="curve"/>
       <point x="326" y="12" type="line"/>
-      <point x="249.988709954" y="17.0007427662"/>
-      <point x="240" y="38.8813559322"/>
+      <point x="249.985991556" y="17.0009216082"/>
+      <point x="240" y="37"/>
       <point x="240" y="256" type="curve" smooth="yes"/>
-      <point x="240" y="346" type="line"/>
+      <point x="240" y="336" type="line"/>
       <point x="140" y="338" type="line"/>
       <point x="140" y="248" type="line" smooth="yes"/>
       <point x="140" y="38"/>
@@ -956,7 +959,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>702</integer>
+          <integer>790</integer>
         </dict>
         <key>midground</key>
         <dict>
@@ -978,14 +981,14 @@
           <array>
           </array>
           <key>width</key>
-          <integer>702</integer>
+          <integer>790</integer>
         </dict>
       </dict>
       <key>com.typemytype.robofont.mark</key>
       <array>
+        <real>0.7848</real>
         <real>1.0</real>
-        <real>1.0</real>
-        <real>0.0</real>
+        <real>0.2125</real>
         <real>1.0</real>
       </array>
     </dict>
