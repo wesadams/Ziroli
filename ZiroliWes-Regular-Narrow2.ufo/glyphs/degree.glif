@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="degree" format="1">
+  <advance width="297"/>
+  <unicode hex="00B0"/>
+  <outline>
+    <contour>
+      <point x="36" y="515"/>
+      <point x="82" y="469"/>
+      <point x="145" y="469" type="curve" smooth="yes"/>
+      <point x="209" y="469"/>
+      <point x="258" y="512"/>
+      <point x="258" y="581" type="curve" smooth="yes"/>
+      <point x="258" y="631"/>
+      <point x="219" y="681"/>
+      <point x="151" y="681" type="curve" smooth="yes"/>
+      <point x="87" y="681"/>
+      <point x="36" y="640"/>
+      <point x="36" y="573" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="103" y="486"/>
+      <point x="73" y="528"/>
+      <point x="73" y="581" type="curve" smooth="yes"/>
+      <point x="73" y="629"/>
+      <point x="100" y="662"/>
+      <point x="145" y="662" type="curve" smooth="yes"/>
+      <point x="190" y="662"/>
+      <point x="222" y="622"/>
+      <point x="222" y="567" type="curve" smooth="yes"/>
+      <point x="222" y="510"/>
+      <point x="187" y="486"/>
+      <point x="151" y="486" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>Background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>297</integer>
+        </dict>
+        <key>background</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>297</integer>
+        </dict>
+        <key>midground</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>degree</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>297</integer>
+        </dict>
+      </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
+    </dict>
+  </lib>
+</glyph>

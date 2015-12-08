@@ -1,0 +1,105 @@
+.notdef .notdef
+A A uni0041
+A.001 A.001
+B B uni0042
+C C uni0043
+C.001 C.001
+D D uni0044
+D.001 D.001
+E E uni0045
+E.001 E.001
+F F uni0046
+F.001 F.001
+G G uni0047
+G.002 G.002
+G.003 G.003
+G.004 G.004
+H H uni0048
+H.001 H.001
+I I uni0049
+J J uni004A
+J.001 J.001
+K K uni004B
+K.001 K.001
+L L uni004C
+M M uni004D
+M.001 M.001
+N N uni004E
+N.001 N.001
+O O uni004F
+O.001 O.001
+P P uni0050
+Q Q uni0051
+Q.001 Q.001
+R R uni0052
+R.001 R.001
+S S uni0053
+T T uni0054
+T.copy_1 T.copy_1
+U U uni0055
+U.001 U.001
+V V uni0056
+V.001 V.001
+W W uni0057
+W.001 W.001
+X X uni0058
+Y Y uni0059
+Z Z uni005A
+Z.001 Z.001
+one one uni0031
+two two uni0032
+three three uni0033
+four four uni0034
+five five uni0035
+six six uni0036
+seven seven uni0037
+eight eight uni0038
+nine nine uni0039
+zero zero uni0030
+period period uni002E
+comma comma uni002C
+space space uni0020
+S.001 S.001
+dollar dollar uni0024
+parenright parenright uni0029
+asterisk asterisk uni002A
+parenleft parenleft uni0028
+ampersand, ampersand,
+at at uni0040
+dagger dagger uni2020
+quotesingle quotesingle uni0027
+slash slash uni002F
+numbersign numbersign uni0023
+percent percent uni0025
+plus plus uni002B
+daggerdbl daggerdbl uni2021
+plusminus plusminus uni00B1
+less less uni003C
+greater greater uni003E
+quotedblright quotedblright uni201D
+braceleft braceleft uni007B
+bar bar uni007C
+braceright braceright uni007D
+quoteright quoteright uni2019
+quotedblleft quotedblleft uni201C
+degree degree uni00B0
+quoteleft quoteleft uni2018
+divide divide uni00F7
+equal equal uni003D
+underscore underscore uni005F
+minus minus uni2212
+hyphen hyphen uni002D
+emdash emdash uni2014
+endash endash uni2013
+cent cent uni00A2
+bracketleft bracketleft uni005B
+brokenbar brokenbar uni00A6
+backslash backslash uni005C
+bracketright bracketright uni005D
+infinity infinity uni221E
+bullet bullet uni2022
+lozenge lozenge uni25CA
+colon colon uni003A
+semicolon semicolon uni003B
+space.002 space.002
+question question uni003F

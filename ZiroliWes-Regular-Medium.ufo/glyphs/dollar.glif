@@ -63,12 +63,6 @@
       <point x="56" y="612"/>
       <point x="120" y="683"/>
     </contour>
-    <contour>
-      <point x="320" y="748" type="line"/>
-      <point x="275" y="-64" type="line"/>
-      <point x="210" y="-80" type="line"/>
-      <point x="253" y="752" type="line"/>
-    </contour>
   </outline>
   <lib>
     <dict>
@@ -77,51 +71,14 @@
       </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>Background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>dollar</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>500</integer>
-        </dict>
-        <key>midground</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>dollar</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>500</integer>
-        </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

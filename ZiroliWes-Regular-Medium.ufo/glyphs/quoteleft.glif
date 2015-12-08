@@ -1,77 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="quoteleft" format="1">
-  <advance width="246"/>
+  <advance width="246.0"/>
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="174" y="445" type="curve"/>
-      <point x="181" y="436" type="line"/>
-      <point x="159.287778053" y="416.175797353"/>
-      <point x="109.62745098" y="398.0"/>
+      <point x="180" y="448" type="curve"/>
+      <point x="187" y="438" type="line"/>
+      <point x="164" y="417"/>
+      <point x="112" y="398"/>
       <point x="77" y="398" type="curve" smooth="yes"/>
       <point x="56" y="398"/>
       <point x="45" y="408"/>
       <point x="44" y="434" type="curve" smooth="yes"/>
-      <point x="41.9998505307" y="493.004409345"/>
-      <point x="76.3664484481" y="597.198100742"/>
+      <point x="42" y="493"/>
+      <point x="76" y="597"/>
       <point x="217" y="699" type="curve"/>
       <point x="226" y="684" type="line"/>
-      <point x="173.122487769" y="654.25639937"/>
+      <point x="173" y="654"/>
       <point x="123" y="596"/>
       <point x="123" y="507" type="curve" smooth="yes"/>
-      <point x="123" y="450"/>
-      <point x="150.80475066" y="431.293716299"/>
+      <point x="123" y="453"/>
+      <point x="153" y="424"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>Background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>quoteleft</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>246</integer>
-        </dict>
-        <key>midground</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>quoteleft</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>246</integer>
-        </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

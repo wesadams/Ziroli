@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="greater" format="1">
-  <advance width="552"/>
+  <advance width="552.0"/>
   <unicode hex="003E"/>
   <outline>
     <contour>
@@ -31,11 +31,11 @@
       <point x="443" y="276"/>
       <point x="388" y="239"/>
       <point x="346" y="216" type="curve" smooth="yes"/>
-      <point x="256.740983436" y="167.860305673"/>
-      <point x="153.019986978" y="115.678772055"/>
+      <point x="257" y="168"/>
+      <point x="153" y="116"/>
       <point x="60" y="91" type="curve"/>
       <point x="62" y="83" type="line"/>
-      <point x="80.8756518541" y="84.797681129"/>
+      <point x="81" y="85"/>
       <point x="120" y="74"/>
     </contour>
   </outline>
@@ -43,51 +43,14 @@
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>Background</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>greater</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>552</integer>
-        </dict>
-        <key>midground</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>greater</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>552</integer>
-        </dict>
       </dict>
+      <key>com.typemytype.robofont.mark</key>
+      <array>
+        <real>1.0</real>
+        <real>1.0</real>
+        <real>0.0</real>
+        <real>1.0</real>
+      </array>
     </dict>
   </lib>
 </glyph>

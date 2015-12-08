@@ -22,10 +22,16 @@
 	<string>D_.002.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
+	<key>E.001</key>
+	<string>E_.001.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
+	<key>F.001</key>
+	<string>F_.001.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
+	<key>G.001</key>
+	<string>G_.001.glif</string>
 	<key>G.002</key>
 	<string>G_.002.glif</string>
 	<key>H</key>
@@ -90,6 +96,8 @@
 	<string>S_.001.glif</string>
 	<key>T</key>
 	<string>T_.glif</string>
+	<key>T.copy_1</key>
+	<string>T_.copy_1.glif</string>
 	<key>U</key>
 	<string>U_.glif</string>
 	<key>V</key>
