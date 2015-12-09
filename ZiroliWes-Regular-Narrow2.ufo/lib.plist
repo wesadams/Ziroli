@@ -359,10 +359,12 @@
 				<string>A</string>
 				<string>A.001</string>
 				<string>B</string>
-				<string>C.copy_1</string>
+				<string>C</string>
 				<string>C.001</string>
-				<string>D</string>
+				<string>C.002</string>
 				<string>D.001</string>
+				<string>D</string>
+				<string>D.002</string>
 				<string>E</string>
 				<string>E.001</string>
 				<string>F</string>
@@ -371,8 +373,11 @@
 				<string>G.001</string>
 				<string>G.002</string>
 				<string>G.003</string>
-				<string>H</string>
+				<string>G.004</string>
+				<string>G.005</string>
 				<string>H.001</string>
+				<string>H</string>
+				<string>H.002</string>
 				<string>I</string>
 				<string>J</string>
 				<string>J.001</string>
@@ -381,13 +386,17 @@
 				<string>L</string>
 				<string>M</string>
 				<string>M.001</string>
+				<string>M.002</string>
 				<string>N</string>
 				<string>N.001</string>
+				<string>N.002</string>
 				<string>O</string>
 				<string>O.001</string>
+				<string>O.002</string>
 				<string>P</string>
 				<string>Q</string>
 				<string>Q.001</string>
+				<string>Q.002</string>
 				<string>R</string>
 				<string>R.001</string>
 				<string>S</string>
@@ -395,14 +404,18 @@
 				<string>T.copy_1</string>
 				<string>U</string>
 				<string>U.001</string>
+				<string>U.002</string>
 				<string>V</string>
 				<string>V.001</string>
+				<string>V.002</string>
 				<string>W</string>
 				<string>W.001</string>
+				<string>W.002</string>
 				<string>X</string>
 				<string>Y</string>
 				<string>Z</string>
 				<string>Z.001</string>
+				<string>Z.002</string>
 				<string>one</string>
 				<string>two</string>
 				<string>three</string>
@@ -461,7 +474,7 @@
 				<string>space.002</string>
 				<string>question</string>
 				<string>exclam</string>
-				<string>C.002</string>
+				<string>C.002.copy_1</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -532,9 +545,12 @@
 		<string>A</string>
 		<string>A.001</string>
 		<string>B</string>
+		<string>C</string>
 		<string>C.001</string>
-		<string>D</string>
+		<string>C.002</string>
 		<string>D.001</string>
+		<string>D</string>
+		<string>D.002</string>
 		<string>E</string>
 		<string>E.001</string>
 		<string>F</string>
@@ -543,8 +559,11 @@
 		<string>G.001</string>
 		<string>G.002</string>
 		<string>G.003</string>
-		<string>H</string>
+		<string>G.004</string>
+		<string>G.005</string>
 		<string>H.001</string>
+		<string>H</string>
+		<string>H.002</string>
 		<string>I</string>
 		<string>J</string>
 		<string>J.001</string>
@@ -553,13 +572,17 @@
 		<string>L</string>
 		<string>M</string>
 		<string>M.001</string>
+		<string>M.002</string>
 		<string>N</string>
 		<string>N.001</string>
+		<string>N.002</string>
 		<string>O</string>
 		<string>O.001</string>
+		<string>O.002</string>
 		<string>P</string>
 		<string>Q</string>
 		<string>Q.001</string>
+		<string>Q.002</string>
 		<string>R</string>
 		<string>R.001</string>
 		<string>S</string>
@@ -567,14 +590,18 @@
 		<string>T.copy_1</string>
 		<string>U</string>
 		<string>U.001</string>
+		<string>U.002</string>
 		<string>V</string>
 		<string>V.001</string>
+		<string>V.002</string>
 		<string>W</string>
 		<string>W.001</string>
+		<string>W.002</string>
 		<string>X</string>
 		<string>Y</string>
 		<string>Z</string>
 		<string>Z.001</string>
+		<string>Z.002</string>
 		<string>one</string>
 		<string>two</string>
 		<string>three</string>
@@ -633,9 +660,7 @@
 		<string>space.002</string>
 		<string>question</string>
 		<string>exclam</string>
-		<string>C.002</string>
-		<string>C</string>
-		<string>c</string>
+		<string>C.002.copy_1</string>
 	</array>
 </dict>
 </plist>

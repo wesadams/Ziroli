@@ -2,67 +2,67 @@
 
 feature kern {
     @MMK_L_E = [E.001 F];
-    @MMK_L_O = [D.001 O O.001 Q Q.001];
-    @MMK_L_V = [V.001 W.001];
-    @MMK_R_H = [B D.001 E.001 F H.001 I K K.001 L P R R.001];
-    @MMK_R_O = [C.001 G.002 O O.001 Q Q.001];
-    @MMK_R_V = [V.001 W.001];
+    @MMK_L_O = [D.002 O.001 O.002 Q.001 Q.002];
+    @MMK_L_V = [V.002 W.002];
+    @MMK_R_H = [B D.002 E.001 F H.002 I K K.001 L P R R.001];
+    @MMK_R_O = [C.002 G.005 O.001 O.002 Q.001 Q.002];
+    @MMK_R_V = [V.002 W.002];
 
     # glyph, glyph
     pos A T -90;
-    pos A U.001 -40;
-    pos A W.001 -40;
+    pos A U.002 -40;
+    pos A W.002 -40;
     pos A Y -90;
-    pos A Z.001 -10;
+    pos A Z.002 -10;
     pos B T -20;
     pos B Y -30;
-    pos G.002 D.001 -10;
-    pos G.002 T -22;
-    pos G.002 W.001 -5;
-    pos G.002 X -15;
-    pos G.002 Y -27;
-    pos G.002 Z.001 -2;
+    pos G.005 D.002 -10;
+    pos G.005 T -22;
+    pos G.005 W.002 -5;
+    pos G.005 X -15;
+    pos G.005 Y -27;
+    pos G.005 Z.002 -2;
     pos J A -36;
     pos J J -30;
-    pos J Z.001 -10;
+    pos J Z.002 -10;
     pos L T -80;
-    pos L U.001 -20;
+    pos L U.002 -20;
     pos L Y -70;
-    pos M.001 Z.001 -10;
+    pos M.002 Z.002 -10;
     pos P A -50;
     pos P X -20;
     pos R T -20;
-    pos R U.001 -12;
+    pos R U.002 -12;
     pos R Y -40;
-    pos R Z.001 -2;
+    pos R Z.002 -2;
     pos S X -10;
     pos S Y -17;
     pos T A -60;
     pos T J -70;
     pos T T -20;
-    pos U.001 A -30;
-    pos U.001 J -10;
-    pos U.001 T -20;
-    pos U.001 U.001 -4;
-    pos U.001 X -22;
-    pos U.001 Z.001 -10;
+    pos U.002 A -30;
+    pos U.002 J -10;
+    pos U.002 T -20;
+    pos U.002 U.002 -4;
+    pos U.002 X -22;
+    pos U.002 Z.002 -10;
     pos X T -40;
-    pos X U.001 -20;
+    pos X U.002 -20;
     pos X Y -40;
-    pos X Z.001 -30;
+    pos X Z.002 -30;
     pos Y A -80;
     pos Y J -72;
 
     # glyph, group
     pos A @MMK_R_V -100;
     pos B @MMK_R_V -10;
-    pos G.002 @MMK_R_H 0;
-    pos G.002 @MMK_R_V -28;
+    pos G.005 @MMK_R_H 0;
+    pos G.005 @MMK_R_V -28;
     pos K @MMK_R_O -20;
     pos L @MMK_R_V -70;
     pos R @MMK_R_V -12;
     pos S @MMK_R_V -16;
-    pos U.001 @MMK_R_O -12;
+    pos U.002 @MMK_R_O -12;
     pos X @MMK_R_O -25;
     pos X @MMK_R_V -30;
     pos Y @MMK_R_O -29;
@@ -71,7 +71,7 @@ feature kern {
     pos @MMK_L_E A -10;
     pos @MMK_L_E J -60;
     pos @MMK_L_E T -30;
-    pos @MMK_L_E U.001 -10;
+    pos @MMK_L_E U.002 -10;
     pos @MMK_L_E Y -20;
     pos @MMK_L_O A -10;
     pos @MMK_L_O T -10;
@@ -79,7 +79,7 @@ feature kern {
     pos @MMK_L_O Y -33;
     pos @MMK_L_V A -92;
     pos @MMK_L_V J -70;
-    pos @MMK_L_V Z.001 -10;
+    pos @MMK_L_V Z.002 -10;
 
     # group, group
     pos @MMK_L_E @MMK_R_O -10;

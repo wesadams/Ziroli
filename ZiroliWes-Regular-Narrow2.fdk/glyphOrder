@@ -4,18 +4,23 @@ A.001 A.001
 B B uni0042
 C C uni0043
 C.001 C.001
-D D uni0044
+C.002 C.002
 D.001 D.001
+D D uni0044
+D.002 D.002
 E E uni0045
 E.001 E.001
 F F uni0046
 F.001 F.001
 G G uni0047
+G.001 G.001
 G.002 G.002
 G.003 G.003
 G.004 G.004
-H H uni0048
+G.005 G.005
 H.001 H.001
+H H uni0048
+H.002 H.002
 I I uni0049
 J J uni004A
 J.001 J.001
@@ -24,13 +29,17 @@ K.001 K.001
 L L uni004C
 M M uni004D
 M.001 M.001
+M.002 M.002
 N N uni004E
 N.001 N.001
+N.002 N.002
 O O uni004F
 O.001 O.001
+O.002 O.002
 P P uni0050
 Q Q uni0051
 Q.001 Q.001
+Q.002 Q.002
 R R uni0052
 R.001 R.001
 S S uni0053
@@ -38,14 +47,18 @@ T T uni0054
 T.copy_1 T.copy_1
 U U uni0055
 U.001 U.001
+U.002 U.002
 V V uni0056
 V.001 V.001
+V.002 V.002
 W W uni0057
 W.001 W.001
+W.002 W.002
 X X uni0058
 Y Y uni0059
 Z Z uni005A
 Z.001 Z.001
+Z.002 Z.002
 one one uni0031
 two two uni0032
 three three uni0033
@@ -103,3 +116,4 @@ colon colon uni003A
 semicolon semicolon uni003B
 space.002 space.002
 question question uni003F
+C.002.copy_1 C.002.copy_1

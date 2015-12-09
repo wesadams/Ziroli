@@ -519,7 +519,6 @@
 		<string>A</string>
 		<string>A.001</string>
 		<string>B</string>
-		<string>C.copy_1</string>
 		<string>E</string>
 		<string>E.001</string>
 		<string>F</string>
@@ -608,6 +607,7 @@
 		<string>Z</string>
 		<string>M</string>
 		<string>Q</string>
+		<string>C</string>
 	</array>
 </dict>
 </plist>
