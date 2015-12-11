@@ -1,21 +1,27 @@
 
 
 feature kern {
-    @MMK_L_E = [E.001 F];
-    @MMK_L_O = [D.002 O.001 O.002 Q.001 Q.002];
-    @MMK_L_V = [V.002 W.002];
-    @MMK_R_H = [B D.002 E.001 F H.002 I K K.001 L P R R.001];
-    @MMK_R_O = [C.002 G.005 O.001 O.002 Q.001 Q.002];
-    @MMK_R_V = [V.002 W.002];
+    @MMK_L_A = [A A.001];
+    @MMK_L_E = [E E.001];
+    @MMK_L_F = [F F.001 P];
+    @MMK_L_G = [G G.001 G.002 G.003 G.004 G.005];
+    @MMK_L_M = [M M.001 M.002];
+    @MMK_L_O = [D D.001 D.002 O O.001 O.002 Q Q.001 Q.002];
+    @MMK_L_U = [J J.001 U U.001 U.002];
+    @MMK_L_V = [V V.001 V.002 W W.001 W.002];
+    @MMK_R_A = [A A.001];
+    @MMK_R_H = [B D D.001 D.002 E E.001 F F.001 H H.001 H.002 I K K.001 L N N.001 N.002 P R R.001];
+    @MMK_R_O = [C C.001 C.002 G G.001 G.002 G.003 G.004 G.005 O O.001 O.002 Q Q.001 Q.002];
+    @MMK_R_U = [U.001 U.002];
+    @MMK_R_V = [V V.001 V.002 W W.001 W.002];
 
     # glyph, glyph
-    pos A T -90;
-    pos A U.002 -40;
     pos A W.002 -40;
-    pos A Y -90;
-    pos A Z.002 -10;
-    pos B T -20;
-    pos B Y -30;
+    pos B S -10;
+    pos B T -21;
+    pos B U -5;
+    pos B X -22;
+    pos B Y -26;
     pos G.005 D.002 -10;
     pos G.005 T -22;
     pos G.005 W.002 -5;
@@ -24,67 +30,94 @@ feature kern {
     pos G.005 Z.002 -2;
     pos J A -36;
     pos J J -30;
-    pos J Z.002 -10;
     pos L T -80;
-    pos L U.002 -20;
     pos L Y -70;
     pos M.002 Z.002 -10;
-    pos P A -50;
-    pos P X -20;
     pos R T -20;
-    pos R U.002 -12;
     pos R Y -40;
     pos R Z.002 -2;
     pos S X -10;
     pos S Y -17;
-    pos T A -60;
     pos T J -70;
     pos T T -20;
-    pos U.002 A -30;
-    pos U.002 J -10;
-    pos U.002 T -20;
-    pos U.002 U.002 -4;
-    pos U.002 X -22;
-    pos U.002 Z.002 -10;
     pos X T -40;
-    pos X U.002 -20;
     pos X Y -40;
     pos X Z.002 -30;
-    pos Y A -80;
+    pos Y A -89;
     pos Y J -72;
 
+    # glyph, group exceptions
+    enum pos A [V V.001 V.002 W W.001] -100;
+    enum pos G.005 [V V.001 V.002 W W.001] -28;
+    enum pos J [A.001] 0;
+    enum pos U.002 [C C.001 C.002 G G.001 G.002 G.003 G.004 G.005 O O.001 O.002 Q Q.001 Q.002] -12;
+
+    # group exceptions, glyph
+    enum pos [D D.001 D.002 O O.001 O.002 Q Q.001 Q.002] A -10;
+    enum pos [E E.001] A 0;
+    enum pos [J J.001 U U.001 U.002] U.002 -4;
+    enum pos [V V.001 V.002 W W.001 W.002] A -122;
+
     # glyph, group
-    pos A @MMK_R_V -100;
-    pos B @MMK_R_V -10;
-    pos G.005 @MMK_R_H 0;
-    pos G.005 @MMK_R_V -28;
+    pos B @MMK_R_V -14;
+    pos K @MMK_R_A -10;
     pos K @MMK_R_O -20;
+    pos K.001 @MMK_R_A 50;
+    pos L @MMK_R_U -30;
     pos L @MMK_R_V -70;
+    pos R @MMK_R_A -10;
+    pos R @MMK_R_U -12;
     pos R @MMK_R_V -12;
+    pos R.001 @MMK_R_A 50;
     pos S @MMK_R_V -16;
-    pos U.002 @MMK_R_O -12;
+    pos T @MMK_R_A -40;
     pos X @MMK_R_O -25;
+    pos X @MMK_R_U -20;
     pos X @MMK_R_V -30;
+    pos Y @MMK_R_A 0;
     pos Y @MMK_R_O -29;
 
     # group, glyph
-    pos @MMK_L_E A -10;
+    pos @MMK_L_A J.001 -13;
+    pos @MMK_L_A T -70;
+    pos @MMK_L_A U -32;
+    pos @MMK_L_A Y -108;
+    pos @MMK_L_A Z.002 -10;
     pos @MMK_L_E J -60;
     pos @MMK_L_E T -30;
-    pos @MMK_L_E U.002 -10;
     pos @MMK_L_E Y -20;
-    pos @MMK_L_O A -10;
+    pos @MMK_L_F X -20;
+    pos @MMK_L_G T 0;
+    pos @MMK_L_G X 0;
+    pos @MMK_L_G Y 0;
+    pos @MMK_L_G Z.002 0;
+    pos @MMK_L_M Z.002 0;
     pos @MMK_L_O T -10;
     pos @MMK_L_O X -30;
     pos @MMK_L_O Y -33;
-    pos @MMK_L_V A -92;
+    pos @MMK_L_U J -10;
+    pos @MMK_L_U T -20;
+    pos @MMK_L_U X -22;
+    pos @MMK_L_U Z.002 -10;
     pos @MMK_L_V J -70;
     pos @MMK_L_V Z.002 -10;
 
     # group, group
+    pos @MMK_L_A @MMK_R_O -20;
+    pos @MMK_L_A @MMK_R_U -23;
+    pos @MMK_L_A @MMK_R_V 0;
+    pos @MMK_L_E @MMK_R_A 0;
     pos @MMK_L_E @MMK_R_O -10;
+    pos @MMK_L_E @MMK_R_U -10;
     pos @MMK_L_E @MMK_R_V -10;
+    pos @MMK_L_F @MMK_R_A -10;
+    pos @MMK_L_G @MMK_R_H 0;
+    pos @MMK_L_G @MMK_R_V 0;
     pos @MMK_L_O @MMK_R_V -30;
+    pos @MMK_L_U @MMK_R_A -30;
+    pos @MMK_L_U @MMK_R_O 0;
+    pos @MMK_L_U @MMK_R_U 0;
+    pos @MMK_L_V @MMK_R_A 0;
     pos @MMK_L_V @MMK_R_O -40;
 } kern;
 

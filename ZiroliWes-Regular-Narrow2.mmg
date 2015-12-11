@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<xml>
+  <group color="0.0 0.5 1.0 0.25" name="A" side="left" type="kerning">
+    <glyphs>
+      A
+      A.001
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 1.0 0.25" name="C" side="left" type="kerning">
+    <glyphs>
+      C
+      C.001
+      C.002
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="E" side="left" type="kerning">
+    <glyphs>
+      E
+      E.001
+    </glyphs>
+  </group>
+  <group color="0.0 0.5 1.0 0.25" name="F" side="left" type="kerning">
+    <glyphs>
+      F
+      F.001
+      P
+    </glyphs>
+  </group>
+  <group color="0.5 0.0 1.0 0.25" name="G" side="left" type="kerning">
+    <glyphs>
+      G
+      G.001
+      G.002
+      G.003
+      G.004
+      G.005
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="H" side="left" type="kerning">
+    <glyphs>
+      H
+      H.001
+      H.002
+      I
+      N
+      N.001
+      N.002
+    </glyphs>
+  </group>
+  <group color="0.0 0.0 1.0 0.25" name="M" side="left" type="kerning">
+    <glyphs>
+      M
+      M.001
+      M.002
+    </glyphs>
+  </group>
+  <group color="1.0 0.5 0.0 0.25" name="O" side="left" type="kerning">
+    <glyphs>
+      D
+      D.001
+      D.002
+      O
+      O.001
+      O.002
+      Q.001
+      Q.002
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.5 0.25" name="U" side="left" type="kerning">
+    <glyphs>
+      J.001
+      U
+      U.001
+      U.002
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="V" side="left" type="kerning">
+    <glyphs>
+      V
+      V.001
+      V.002
+      W
+      W.001
+      W.002
+    </glyphs>
+  </group>
+  <group color="1.0 1.0 0.0 0.25" name="A" side="right" type="kerning">
+    <glyphs>
+      A
+      A.001
+    </glyphs>
+  </group>
+  <group color="1.0 0.0 0.0 0.25" name="H" side="right" type="kerning">
+    <glyphs>
+      B
+      D
+      D.001
+      D.002
+      E
+      E.001
+      F
+      F.001
+      H
+      H.001
+      H.002
+      I
+      K
+      K.001
+      L
+      N
+      N.001
+      N.002
+      P
+      R
+      R.001
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 1.0 0.25" name="M" side="right" type="kerning">
+    <glyphs>
+      M
+      M.001
+      M.002
+    </glyphs>
+  </group>
+  <group color="1.0 0.5 0.0 0.25" name="O" side="right" type="kerning">
+    <glyphs>
+      C
+      C.001
+      C.002
+      G
+      G.001
+      G.002
+      G.003
+      G.004
+      G.005
+      O
+      O.001
+      O.002
+      Q
+      Q.001
+      Q.002
+    </glyphs>
+  </group>
+  <group color="0.0 1.0 0.0 0.25" name="V" side="right" type="kerning">
+    <glyphs>
+      V
+      V.001
+      V.002
+      W
+      W.001
+      W.002
+    </glyphs>
+  </group>
+</xml>

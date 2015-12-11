@@ -482,11 +482,39 @@
 	</array>
 	<key>com.typesupply.MetricsMachine4.groupColors</key>
 	<dict>
+		<key>@MMK_L_A</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_C</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_L_E</key>
 		<array>
 			<real>1.0</real>
 			<real>1.0</real>
 			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_F</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_G</key>
+		<array>
+			<real>0.5</real>
+			<real>0.0</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_H</key>
@@ -496,11 +524,25 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_L_M</key>
+		<array>
+			<real>0.0</real>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_L_O</key>
 		<array>
 			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_L_U</key>
+		<array>
+			<real>1.0</real>
+			<real>0.0</real>
+			<real>0.5</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_L_V</key>
@@ -524,11 +566,25 @@
 			<real>0.0</real>
 			<real>0.25</real>
 		</array>
+		<key>@MMK_R_M</key>
+		<array>
+			<real>0.0</real>
+			<real>1.0</real>
+			<real>1.0</real>
+			<real>0.25</real>
+		</array>
 		<key>@MMK_R_O</key>
 		<array>
 			<real>1.0</real>
 			<real>0.5</real>
 			<real>0.0</real>
+			<real>0.25</real>
+		</array>
+		<key>@MMK_R_U</key>
+		<array>
+			<real>0.0</real>
+			<real>0.5</real>
+			<real>1.0</real>
 			<real>0.25</real>
 		</array>
 		<key>@MMK_R_V</key>
